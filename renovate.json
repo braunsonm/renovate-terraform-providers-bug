@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+    "matchDatasources": [
+       "terraform-provider"
+    ],
+    "defaultRegistryUrls": [
+      "https://mycustommirror.com"
+    ]
+  ]
+}
