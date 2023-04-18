@@ -1,0 +1,1 @@
+# renovate-terraform-providers-bug
